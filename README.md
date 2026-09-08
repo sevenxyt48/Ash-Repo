@@ -1,6 +1,6 @@
 # Why Are We Here?
 
-My background is in computer science, and programming has always been central to how I build things. As my interest expanded into game design and development, code naturally became the primary tool I used to bring my creative ideas to life. However, AI can now generate working code from a simple prompt within seconds. It can quickly suggest different content variations and technical solutions. Facing this reality, I started questioning something deeply relevant to my own path: if AI can increasingly handle technical execution, why should I still learn and understand programming?
+My background is in computer science, and programming has always been central to how I build things. As my interest focus on game design and development, code naturally became the primary tool I used to bring my creative ideas to life. However, AI can generate working code from a simple prompt within seconds now. It can quickly suggest different content variations and technical solutions. Facing this reality, I started questioning something deeply relevant to my own path: if AI can increasingly handle technical execution, why should I still learn and understand programming?
 
 I believe the answer lies not in who can write code faster, but in who decides what should be built and why.
 
@@ -18,6 +18,14 @@ AI could help me write the code to implement these mechanics, but it could not d
 
 This is why learning programming remains essential even when AI can generate code. In the future, I may not need to write every line of syntax manually. However, I still need technical knowledge to understand what is possible, evaluate AI-generated code, and modify technical structures to fit my design goals. Programming allows me to translate abstract creative ideas into interactive systems without treating the technical side of my work as a black box.
 
+This view also connects with Dylan Beattie's The Art of Code, which presents programming as a creative medium rather than simply a technical tool. The talk explores how code can be used for artistic expression and creative experimentation (Beattie, 2020). This reinforces my belief that learning programming is not only about writing code, but also about understanding how code can turn creative ideas into experiences.
+
 AI will always generate content faster than a human can. However, human decisions remain the most important part of the creative process. If ten different people use the same AI with the same prompt, they will still create ten completely different works because they make different choices regarding tone, detail, structure, and pacing.
 
 For me, learning programming is not about competing with AI to produce code. It is about becoming better at deciding what should be created. AI offers options, but humans give those options meaning. The core role of a game creator lives at the intersection of creative intent, technical understanding, and human experience.
+
+## References
+
+Beattie, D. (2020). The art of code [Video]. YouTube. https://youtu.be/6avJHaC3C2U
+
+渗透之C菌. (2025, August 23). 最不吓人的寂静岭？《寂静岭f》科隆4小时试玩全面评测 [Video]. Bilibili. https://b23.tv/wFH5yPQ
