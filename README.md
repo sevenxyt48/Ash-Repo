@@ -8,7 +8,7 @@ When I use AI to design a horror game, I can ask it to generate visual styles, g
 
 This distinction is crucial because a game is more than just visual effects and working scripts. It is an interactive experience created for human players, and human feelings are subjective. I do not believe AI can fully predict or understand how a player will feel. While a system can analyze patterns from existing games to create scary elements, effective tension depends on how a player mentally engages with the world.
 
-I experienced this directly while developing my own horror game. During my research on design philosophies in games like *Silent Hill f*, I encountered a key idea around the 17:09 mark of [this video](https://b23.tv/wFH5yPQ): effective horror is not just about scary images or loud sounds; it is built on psychological tension. 
+While developing this horror game, I also researched other horror games to better understand how they create fear and tension. During this research, I encountered a discussion of *Silent Hill f* around the 17:09 mark of [this video](https://b23.tv/wFH5yPQ): effective horror is not just about scary images or loud sounds; it is also built on psychological tension. 
 
 This insight changed my approach to game mechanics:
 * Instead of making the environment darker or the sound effects louder, I created tension through gameplay rules. I designed a system where the player’s HP decreases if they break specific rules. This forced players to remember instructions and consider the consequences of their choices.
@@ -20,11 +20,11 @@ This is why learning programming remains essential even when AI can generate cod
 
 This view also connects with Dylan Beattie's The Art of Code, which presents programming as a creative medium rather than simply a technical tool. The talk explores how code can be used for artistic expression and creative experimentation (Beattie, 2020). This reinforces my belief that learning programming is not only about writing code, but also about understanding how code can turn creative ideas into experiences.
 
-AI will always generate content faster than a human can. However, human decisions remain the most important part of the creative process. If ten different people use the same AI with the same prompt, they will still create ten completely different works because they make different choices regarding tone, detail, structure, and pacing.
+Even if AI can generate content faster than humans, the result still depends on the choices made by the creator. Ten people can use the same AI and the same prompt and still create completely different works because they make different choices about tone, detail, structure, and pacing.
 
 For me, learning programming is not about competing with AI to produce code. It is about becoming better at deciding what should be created. AI offers options, but humans give those options meaning. The core role of a game creator lives at the intersection of creative intent, technical understanding, and human experience.
 
-## References
+**References**
 
 Beattie, D. (2020). The art of code [Video]. YouTube. https://youtu.be/6avJHaC3C2U
 
