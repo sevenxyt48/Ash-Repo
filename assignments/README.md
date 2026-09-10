@@ -24,7 +24,7 @@ Even if AI can generate content faster than humans, the result still depends on 
 
 For me, learning programming is not about competing with AI to produce code. It is about becoming better at deciding what should be created. AI offers options, but humans give those options meaning. The core role of a game creator lives at the intersection of creative intent, technical understanding, and human experience.
 
-**References**
+## References
 
 Beattie, D. (2020). The art of code [Video]. YouTube. https://youtu.be/6avJHaC3C2U
 
